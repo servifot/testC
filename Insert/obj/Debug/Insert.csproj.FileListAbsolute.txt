@@ -1,0 +1,15 @@
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\Insert.csprojAssemblyReference.cache
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\MainWindow.g.cs
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\App.g.cs
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\Insert_MarkupCompile.cache
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\Insert_MarkupCompile.lref
+C:\Users\Fran\source\repos\Selection\Insert\bin\Debug\Insert.exe.config
+C:\Users\Fran\source\repos\Selection\Insert\bin\Debug\Insert.exe
+C:\Users\Fran\source\repos\Selection\Insert\bin\Debug\Insert.pdb
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\MainWindow.baml
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\Insert.g.resources
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\Insert.Properties.Resources.resources
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\Insert.csproj.GenerateResource.cache
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\Insert.csproj.CoreCompileInputs.cache
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\Insert.exe
+C:\Users\Fran\source\repos\Selection\Insert\obj\Debug\Insert.pdb

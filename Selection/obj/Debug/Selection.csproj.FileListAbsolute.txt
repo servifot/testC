@@ -1,0 +1,15 @@
+C:\Users\Fran\source\repos\Selection\Selection\bin\Debug\Selection.exe.config
+C:\Users\Fran\source\repos\Selection\Selection\bin\Debug\Selection.exe
+C:\Users\Fran\source\repos\Selection\Selection\bin\Debug\Selection.pdb
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\Selection.csprojAssemblyReference.cache
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\MainWindow.g.cs
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\App.g.cs
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\Selection_MarkupCompile.cache
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\Selection_MarkupCompile.lref
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\MainWindow.baml
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\Selection.g.resources
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\Selection.Properties.Resources.resources
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\Selection.csproj.GenerateResource.cache
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\Selection.csproj.CoreCompileInputs.cache
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\Selection.exe
+C:\Users\Fran\source\repos\Selection\Selection\obj\Debug\Selection.pdb
